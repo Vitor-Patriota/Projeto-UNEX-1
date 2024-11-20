@@ -1,0 +1,26 @@
+/* Custom Styles */
+* {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.logo {
+  height: 80px; /* Ajuste conforme necessário */
+}
+
+.hero {
+  background: url("hero-bg.jpg") no-repeat center center/cover;
+  padding: 100px 0;
+}
+
+section {
+  padding: 60px 0;
+}
+
+.card img {
+  height: 250px;
+  object-fit: cover;
+}
+
+footer {
+  margin-top: 30px;
+}
